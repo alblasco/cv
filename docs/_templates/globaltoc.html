@@ -1,0 +1,15 @@
+<h3><a href="{{ pathto(master_doc) }}">{{ _('Curriculum Vitae') }}</a></h3>
+
+<ul>
+  <li><a href="{{ pathto('index') }}">1. Personal and education</a></li>
+  <li><a href="{{ pathto('courses') }}">2. Courses</a></li>
+  <li><a href="{{ pathto('experience') }}">3. Experience</a></li>
+  <li><a href="{{ pathto('community_feedback') }}">4. Community feedback</a></li>
+  <li><a href="{{ pathto('contents') }}">Contents</a></li>
+</ul>
+
+{%- if display_toc %}
+  <hr>
+  {{ toc }}
+{%- endif %}
+
