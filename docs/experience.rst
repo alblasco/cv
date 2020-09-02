@@ -1,6 +1,8 @@
 Experience
 ==========
 
+My professional experience has been always working in Teltronic SAU:
+
 May 1988 – Dec 1990 – Junior Software Engineer (R&D. Software)
 --------------------------------------------------------------
 * New technology analysis: MPT-1327
